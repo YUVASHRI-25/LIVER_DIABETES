@@ -1,0 +1,13 @@
+prefix=E:/PYTHON/liver_dataset/venv/Library
+exec_prefix=E:/PYTHON/liver_dataset/venv/Library
+libdir=E:/PYTHON/liver_dataset/venv/Library/lib
+sharedlibdir=E:/PYTHON/liver_dataset/venv/Library/lib
+includedir=E:/PYTHON/liver_dataset/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
