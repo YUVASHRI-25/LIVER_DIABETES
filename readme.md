@@ -2,6 +2,8 @@
 
 This is a web application built using **Streamlit** that predicts the risk of liver disease based on various patient parameters. The model is built using a **Random Forest classifier** trained on a dataset that has been balanced using **SMOTE** (Synthetic Minority Over-sampling Technique). The app provides a user-friendly interface for entering patient details and getting predictions on the risk of liver disease.
 
+**TRY WITH STREAMLIT APP**:https://liverdiabetes.streamlit.app/
+
 ## 🛠️ Features
 
 - **Data Input**: Users can input details like age, gender, various blood test parameters, etc.
